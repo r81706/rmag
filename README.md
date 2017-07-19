@@ -1,0 +1,2 @@
+# rmag
+My site.
